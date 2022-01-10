@@ -1,0 +1,109 @@
+body {
+    color: #9ea8c6;
+    background-color: #051236;
+}
+.blog-one__content h3,
+.funfact-one p,
+.block-title h3 {
+    color: #fff;
+}
+.about-one__icon-box p{
+    color: #fefefe;
+}
+
+.about-one__content > p {
+    color: #9ea8c6;
+}
+.blog-one__content,
+.about-one .inner-container {
+    border-color: rgba($color: #fff, $alpha: .1);
+}
+
+.blog-one__home,
+.about-five,
+.service-one {
+    background-color: #0a1c4f;
+}
+
+
+.blog-one__home::before,
+.service-one::before {
+    background-image: url(../images/dark/shapes/virus-pattern-1-1.png);
+    opacity: .15;
+    background-blend-mode: overlay;
+    background-color: #0a1c4f;
+}
+
+
+
+
+
+.progress-one__box,
+
+.blog-one__content,
+.service-one__single:hover .service-one__image {
+    background-color: #051236;
+}
+
+.prevention-one__box-top::before {
+    background-image: url(../images/dark/shapes/prevent-header-shape-1-1.png);
+    border-color: rgba($color: #fff, $alpha: .1);
+}
+.prevention-one__box-bottom {
+    background-color: #040f2e;
+    border-color: rgba($color: #fff, $alpha: .1);
+}
+.brand-one__carousel,
+
+.prevention-one__single + .prevention-one__single {
+    border-color: rgba($color: #fff, $alpha: .1);
+}
+.prevention-one__icon-inner {
+    background-color: #0a1c4f;
+}
+
+.funfact-two__single i,
+.funfact-two__single h3,
+
+.prevention-one__content h3 {
+    color: #fff;
+}
+
+.progress-one__box p,
+.prevention-one__content p {
+    color: #9ea8c6;
+
+}
+
+
+
+
+
+
+.slider-one__wrapper::before {
+    background-image: url(../images/dark/shapes/banner-2-bg-shape.png);
+}
+
+.slider-one__video-btn {
+    border-color: #051236;
+}
+
+.symptomps-one__image {
+    background-color: #0a1c4f;
+}
+
+
+
+
+.funfact-two__single p,
+
+
+    color: #9ea8c6;
+}
+
+
+
+.prevention-one__icon::before {
+    border-color: #040f2e;
+}
+
